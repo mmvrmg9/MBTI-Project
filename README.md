@@ -11,8 +11,8 @@ Five AI agents with different MBTI personality types each nominate a crisis lead
 
 | Name   | MBTI  | Focus |
 |--------|-------|-------|
-| Arthur | ISTJ  | Due diligence, legal compliance, risk |
-| Luna   | ENFP  | Culture, morale, shared vision |
+| Arthur | ISTJ (Logistician) | Practical, methodical, duty-bound; values structure, honesty, and reliable crisis leadership ([profile](https://www.16personalities.com/istj-personality)) |
+| Luna   | ENFP (Campaigner) | Enthusiastic, empathetic free spirit; values connection, morale, and shared vision ([profile](https://www.16personalities.com/enfp-personality)) |
 | Victor | ENTJ  | Market dominance, ROI, growth |
 | Mira   | INFJ  | Ethics, long-term alignment, human cost |
 | Diego  | ESTP  | Negotiation, reading the room, practical fixes |
