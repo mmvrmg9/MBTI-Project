@@ -252,7 +252,7 @@ agents = [
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 CSV_PATH = os.path.join(SCRIPT_DIR, "Most Nominated.csv")
 PANEL_NAMES = [a.name for a in agents]
-NUM_RUNS = 10
+NUM_RUNS = 20
 
 print("\033[1m--- SIMULATION STARTING ---\033[0m")
 print(f"Logging nominations to: {CSV_PATH}")
