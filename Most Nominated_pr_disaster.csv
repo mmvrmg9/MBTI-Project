@@ -1,0 +1,427 @@
+run,scenario,nominated,nominated_by,answer
+1,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"Given this crisis, I would nominate Victor because he has a track record of handling high-pressure situations with a calm and level head, which is essential for addressing the emotional fallout from a viral video. Additionally, his straightforward and honest approach to communication would help to diffuse any misinformation and restore trust.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+1,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated a commitment to fostering an inclusive and respectful work environment, and her empathetic nature would allow her to navigate the crisis with sensitivity and transparency. I'm confident in her ability to handle this situation 85%.
+
+NOMINEE: Mira"
+1,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because he has a calm and composed demeanor, which would help to defuse the tension and anxiety surrounding the viral video, and his strategic thinking would enable him to develop a clear and effective response. I am confident in my choice 80%.
+
+NOMINEE: Arthur"
+1,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because I believe he possesses the necessary integrity to handle this crisis with transparency and compassion, while also having the leadership skills to guide his organization through a difficult time. His empathetic nature and commitment to fairness would allow him to listen to all parties involved and make informed decisions that prioritize the well-being of everyone affected.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+1,pr_disaster,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he possesses the calm and collected demeanor necessary to navigate this crisis, allowing him to provide a level-headed response to the media while also taking care to protect the employee's reputation. Additionally, his thoughtful and empathetic nature would enable him to address any potential fallout with sensitivity.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+2,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has a reputation for being decisive and taking swift action to address critical issues, which would be essential in this crisis to contain the damage and restore confidence. Additionally, Victor's strong communication skills would allow him to effectively respond to media inquiries and maintain transparency throughout the process.
+
+Confidence: 80%
+
+NOMINEE: Victor"
+2,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated her ability to remain calm and composed under pressure, which I believe would be essential in addressing this crisis situation. Her empathetic nature and strong communication skills would also enable her to effectively address the concerns of both the employee involved and the wider team.
+
+Confidence: 80%
+
+NOMINEE: Mira"
+2,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because he has a calm and composed demeanor, which would be essential in addressing the situation with empathy and clarity. His ability to listen actively and provide thoughtful responses would help to diffuse tension and maintain trust.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+2,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated integrity and a strong sense of justice, making him the most trusted leader to address this crisis and restore public confidence. His empathetic nature and ability to connect with people will help him navigate the complexities of the situation.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+2,pr_disaster,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur for this crisis situation. I believe he would handle the media scrutiny with poise and calmness, being able to deliver a clear and concise message that addresses the concerns without fueling the fire.
+
+Confidence level: 90%
+
+NOMINEE: Arthur"
+3,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has a track record of handling sensitive situations with professionalism and tact, and his calm demeanor under pressure would be essential in navigating the media frenzy surrounding this crisis. I have 80% confidence that Victor can effectively address the situation while maintaining the company's reputation.
+
+NOMINEE: Victor"
+3,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira to handle this crisis because she has a natural talent for empathizing with others and creating a sense of emotional safety, which would be essential in addressing the concerns and allegations raised by the viral video. Her warm and compassionate approach would help to diffuse tension and provide a platform for open and honest dialogue.
+
+Confidence: 80%
+
+NOMINEE: Mira"
+3,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur to handle this crisis because he possesses the calm and composed demeanor necessary to navigate the situation, ensuring a measured response that addresses concerns without exacerbating the issue. His ability to think on his feet and adapt to changing circumstances will also serve us well in the face of journalistic scrutiny.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+3,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur for this crisis. I believe he has the integrity to handle the situation with transparency and fairness, considering both the employee's reputation and the company's values.
+
+Confidence level: 95%
+
+NOMINEE: Arthur"
+3,pr_disaster,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he has a proven track record of staying calm under pressure and making rational decisions in high-stress situations, which would be essential in addressing the crisis. Additionally, his diplomatic skills would allow him to navigate the complex web of stakeholders, from employees to journalists, with ease.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+4,pr_disaster,,Arthur (ISTJ),"I would nominate Mira. I believe she has the emotional intelligence to handle this crisis effectively, remaining calm and composed while still taking decisive action to address the situation and protect the company's reputation.
+
+95%"
+4,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated the ability to build genuine rapport with her employees and foster an open-door policy, which would be essential in addressing this sensitive situation. Her empathetic nature and willingness to listen to concerns would help to diffuse tension and restore trust.
+
+Confidence: 85%
+
+NOMINEE: Mira"
+4,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis scenario. I believe Arthur's calm and collected demeanor, combined with his experience in navigating complex situations, would serve him well in addressing the public concern and damage control.
+
+Confidence level: 90%
+
+NOMINEE: Arthur"
+4,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur for his reputation as a steady and compassionate leader who prioritizes integrity and fairness above all else. In times of crisis, I believe Arthur's calm and thoughtful approach would help to diffuse tension and promote a sense of transparency and accountability.
+
+NOMINEE: Arthur"
+4,pr_disaster,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur for this crisis because he has the calm and level-headed demeanor necessary to navigate a high-pressure situation like this, and his experience in handling sensitive communications makes him well-suited to address the media's demands for comment. I'm confident in my choice, giving it an 80% chance of being effective.
+
+NOMINEE: Arthur"
+5,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor. I believe Victor's calm and composed demeanor, combined with his ability to think critically and strategically, would serve the organization well in navigating this crisis and addressing the allegations.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+5,pr_disaster,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has consistently demonstrated the ability to build genuine rapport with his employees, which would be crucial in addressing this crisis and rebuilding trust. Additionally, Arthur's calm and composed demeanor under pressure would help to reassure employees and stakeholders during a time of uncertainty.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+5,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because they possess the necessary tact and diplomacy to navigate this crisis with sensitivity and professionalism, while also being able to address the underlying issues that led to the viral video. I'm confident in their ability to handle this situation with a high degree of confidence.
+
+NOMINEE: Arthur"
+5,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I am troubled by the allegations and believe that Arthur, with his reputation for fairness and integrity, would handle this crisis with transparency and compassion. He has a proven track record of standing up for what's right, even when it's difficult, and I have confidence in his ability to navigate this situation with empathy and accountability.
+
+NOMINEE: Arthur"
+5,pr_disaster,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has a calm and level-headed demeanor that would help to diffuse the tension in this crisis situation, and her ability to empathize with all parties involved would allow her to make informed decisions. I'm 90% confident in my nomination.
+
+NOMINEE: Mira"
+6,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a level head in high-pressure situations and is known for his thoughtful, measured approach to crisis management. I am 90% confident that he would handle the situation with professionalism and integrity.
+
+NOMINEE: Victor"
+6,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has shown exceptional skill in building emotional safety and fostering open dialogue within the team, which would be crucial in addressing the sensitive situation surrounding the viral video. I believe her empathetic approach and ability to bring people together would allow her to navigate this crisis with integrity and transparency.
+
+Confidence: 80%
+
+NOMINEE: Mira"
+6,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because he has a calm and collected demeanor, which would help to diffuse the tension and provide a sense of stability in the face of chaos. His ability to think critically and make thoughtful decisions under pressure would also serve us well as we navigate this reputational threat.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+6,pr_disaster,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated a strong sense of empathy and compassion, which would help to diffuse the situation and find a solution that prioritizes fairness and respect. I believe her calm and collected demeanor would be an asset in addressing this crisis.
+
+NOMINEE: Luna"
+6,pr_disaster,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she possesses exceptional emotional intelligence, which would enable her to navigate the complex emotions and sensitivities surrounding this crisis with empathy and understanding. Additionally, her natural ability to build strong relationships and communicate effectively would allow her to address the concerns of both internal stakeholders and external media.
+
+Confidence: 95%
+
+NOMINEE: Mira"
+7,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has a reputation for being level-headed and having excellent communication skills, which would be essential in addressing the crisis and responding to the media inquiries. Additionally, his experience as a leader would help him navigate the situation with clarity and authority.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+7,pr_disaster,,Luna (ENFP),"I would nominate Victor. I believe Victor's calm and level-headed demeanor would help to diffuse the tension and create an atmosphere where all voices can be heard, allowing for a thorough investigation and a thoughtful response.
+
+80%"
+7,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because he has a calm and level-headed approach to conflict resolution, which will be essential in diffusing the tension surrounding this viral video. Additionally, his experience in handling sensitive situations and his ability to communicate effectively with all stakeholders make him the best person to address the media and the public.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+7,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated his commitment to integrity and fairness, which would enable him to handle this crisis with the transparency and accountability it requires. I believe he would prioritize addressing the concerns and allegations in a way that protects the employee's dignity while also upholding the company's values.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+7,pr_disaster,Victor (ENTJ),Diego (ESTP),"I would nominate Victor. I believe Victor's calm and composed demeanor, along with his experience in handling complex situations, make him the ideal leader to address this crisis and restore credibility to the company.
+
+Confidence level: 90%
+
+NOMINEE: Victor"
+8,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor. I believe Victor's calm and composed demeanor, combined with his experience in handling high-pressure situations, makes him the most suitable leader to address this crisis and provide a measured response that maintains trust and credibility.
+
+Confidence level: 80%
+
+NOMINEE: Victor"
+8,pr_disaster,Victor (ENTJ),Luna (ENFP),"I believe Victor would be the best leader to handle this crisis because they possess a unique combination of calmness, empathy, and strategic thinking, allowing them to navigate the situation with professionalism and sensitivity. I'm confident that Victor would take the time to thoroughly investigate the allegations, listen to all parties involved, and communicate transparently to ensure the organization's reputation is preserved.
+
+NOMINEE: Victor"
+8,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis. I believe he has the calm and collected demeanor to handle the situation effectively, as well as the strong communication skills to address the issue directly with the senior employee and the media.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+8,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur, who has consistently demonstrated exceptional leadership skills in times of crisis, with a calm and thoughtful approach that inspires confidence and trust. I believe his empathetic nature and commitment to fairness would help to diffuse the situation and provide a balanced response.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+8,pr_disaster,Luna (ENFP),Diego (ESTP),"I'm nominating Luna because she's known for her calm and composed demeanor, which would be essential in addressing the media frenzy surrounding this crisis. Her ability to think critically and make rational decisions under pressure makes me 80% confident that she'd handle the situation effectively.
+
+NOMINEE: Luna"
+9,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I believe Victor would be the most suitable leader to handle this crisis due to his calm and composed demeanor, which would help to maintain a sense of stability and order in the face of chaos. His ability to think critically and make rational decisions would also serve him well in navigating the complex situation.
+
+Confidence: 80%
+
+NOMINEE: Victor"
+9,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated a deep understanding of the importance of emotional safety and genuine rapport in times of crisis, and I believe her compassionate leadership style would help to diffuse the tension and promote open communication. My confidence in her ability to handle this situation is 85%.
+
+NOMINEE: Mira"
+9,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because he has a proven track record of handling high-pressure situations with calmness and transparency, which will be crucial in addressing the concerns raised by the viral video. His ability to connect with people on all levels and build trust will help to mitigate any damage to the company's reputation.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+9,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur, because they have consistently demonstrated integrity in their leadership style and are not afraid to address difficult situations head-on, even when it means going against the grain. I believe their ability to lead with empathy and compassion would help navigate this crisis.
+
+NOMINEE: Arthur"
+9,pr_disaster,Mira (INFJ),Diego (ESTP),"I would nominate Mira for this crisis situation because she possesses exceptional communication skills and the ability to remain composed under pressure, making her a strong candidate to address the media's concerns in a professional and empathetic manner. Her calm demeanor would help to diffuse any tension and provide a clear message.
+
+Confidence: 85%
+
+NOMINEE: Mira"
+10,pr_disaster,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has a strong track record of maintaining professional composure in high-pressure situations and can effectively communicate with the press to address concerns while upholding the company's values. I am confident that she can handle this crisis with integrity and transparency.
+
+NOMINEE: Mira"
+10,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated her ability to handle sensitive situations with empathy and transparency, which is crucial in a crisis like this where reputational damage is a major concern. I have confidence that she can bring calm and stability to the situation while also addressing the concerns of the journalists and the employees.
+
+NOMINEE: Mira"
+10,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur to handle the crisis because his calm and composed demeanor, combined with his exceptional communication skills, make him the perfect person to address the media and restore confidence in the company. I'm confident that he can effectively navigate this situation, given his experience in handling complex PR matters.
+
+NOMINEE: Arthur"
+10,pr_disaster,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated her ability to remain calm under pressure and make thoughtful decisions despite intense scrutiny. Her empathetic nature and commitment to protecting the vulnerable would help her navigate this crisis with integrity.
+
+NOMINEE: Luna"
+10,pr_disaster,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur for this crisis because he has a calm and level-headed demeanor, which would be essential in handling the emotional fallout from the viral video while also addressing the media's requests for comment. I'm confident that he could navigate this situation with empathy and professionalism.
+
+NOMINEE: Arthur"
+11,pr_disaster,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira as the leader to handle this crisis. This is because Mira has demonstrated exceptional emotional intelligence and conflict resolution skills in the past, which will be essential in addressing the sensitive and potentially volatile situation.
+
+Confidence level: 85%
+
+NOMINEE: Mira"
+11,pr_disaster,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe he has the emotional intelligence to handle this crisis with empathy and compassion, while also being able to effectively communicate a message that acknowledges the seriousness of the situation. Additionally, his ability to build rapport with employees and foster an open-door policy would help to diffuse tension and create a safe space for discussion.
+
+Confidence: 95%
+
+NOMINEE: Victor"
+11,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur to handle this crisis because they possess a high level of emotional intelligence, which would allow them to navigate the complex emotions and reactions surrounding the situation with empathy and tact. Additionally, their calm and composed demeanor would help to reassure employees and stakeholders that the company is taking swift and decisive action to address the issue.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+11,pr_disaster,Luna (ENFP),Mira (INFJ),"I would nominate Luna. I trust her to take a measured approach in addressing the crisis, balancing the need for transparency with the importance of protecting individuals involved, and I believe she has the empathy and leadership skills necessary to guide the organization through this difficult time.
+
+Confidence: 90%
+
+NOMINEE: Luna"
+11,pr_disaster,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they possess the calm and collected demeanor necessary to address this crisis, being able to think critically and respond rationally in the face of intense media scrutiny. Their ability to remain composed under pressure would allow them to effectively navigate the situation and provide a clear message.
+
+NOMINEE: Victor"
+12,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"Given this crisis, I would nominate Victor because he has a proven track record of handling sensitive and complex situations with professionalism and tact, which will be crucial in addressing the allegations and maintaining employee trust. Additionally, his calm and composed demeanor under pressure will help to mitigate any potential fallout.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+12,pr_disaster,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe his calm and composed demeanor would help to diffuse the tension and create an atmosphere of genuine inquiry, allowing for a thorough investigation into the matter. His empathetic listening skills would also enable him to address any concerns or emotions arising from the situation.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+12,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he possesses a calm and composed demeanor, which would be essential in addressing the crisis with empathy and clarity, while also conveying the company's values and policies. His steady hand would provide a sense of stability and reassurance to the employees and the public.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+12,pr_disaster,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated a strong sense of integrity and compassion, which I believe would guide her response to this crisis. Her empathetic nature would also help her navigate the emotional fallout from the incident.
+
+Confidence: 90%
+
+NOMINEE: Luna"
+12,pr_disaster,Victor (ENTJ),Diego (ESTP),"I would nominate Victor, the ENFJ leader, because they possess exceptional emotional intelligence, which allows them to effectively navigate complex social situations and handle crisis communications with empathy and tact. Their natural charm and charisma also make them a compelling figure to represent the organization in this sensitive matter.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+13,pr_disaster,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a calm and level-headed approach to crisis management, which would be crucial in this situation to address the allegations and maintain employee trust. Her experience in handling sensitive situations with empathy and professionalism makes her the best choice to lead the response.
+
+Confidence: 80%
+
+NOMINEE: Mira"
+13,pr_disaster,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has a proven track record of addressing difficult situations with empathy and understanding, and his ability to build rapport with others would be crucial in calming the situation and reassuring employees. I have 80% confidence that Arthur would handle this crisis effectively.
+
+NOMINEE: Arthur"
+13,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because he has a strong reputation for being impartial and fair-minded, which would be essential in handling a situation that requires a calm and level-headed approach. Additionally, his experience in navigating complex situations would allow him to effectively communicate with the media and the public.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+13,pr_disaster,Luna (ENFP),Mira (INFJ),"I would nominate Luna for her calm and composed demeanor in the face of crisis. She has a proven track record of handling sensitive situations with empathy and integrity, and I believe she would be able to address the allegations fairly and transparently.
+
+Confidence: 85%
+
+NOMINEE: Luna"
+13,pr_disaster,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has a keen sense of fairness and will not shy away from making tough decisions, which would be essential in handling the crisis and addressing any concerns raised by the viral video. I have high confidence in her ability to navigate this situation effectively, as she is known for her level-headedness and ability to stay focused under pressure.
+
+NOMINEE: Mira"
+14,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"Given this crisis, I would nominate Victor because he has a reputation for being a strong communicator who can address the situation in a clear and concise manner, without sensationalism. His experience in managing high-pressure situations also gives me confidence that he can keep his cool under scrutiny.
+
+NOMINEE: Victor"
+14,pr_disaster,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because they possess the emotional intelligence to handle a crisis like this with empathy and tact, while also being able to address the allegations in a clear and concise manner. I'm confident that Victor can navigate this situation effectively, as they have a track record of building strong relationships and fostering open communication.
+
+NOMINEE: Victor"
+14,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur. I believe Arthur's calm and measured approach to crisis management would be essential in addressing the negative fallout from this viral video, as he can provide a sense of stability and reassurance to both employees and stakeholders.
+
+Confidence level: 90%
+
+NOMINEE: Arthur"
+14,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because I believe he has the integrity and leadership skills to address this crisis in a way that prioritizes fairness and respect for all parties involved. His calm and composed demeanor would help to diffuse tension and ensure a thoughtful response.
+
+Confidence level: 95%
+
+NOMINEE: Arthur"
+14,pr_disaster,Mira (INFJ),Diego (ESTP),"I would nominate Mira. I think she's the best fit for this crisis because her calm and level-headed nature would help to diffuse the situation and provide a clear, thoughtful response to the allegations.
+
+Confidence: 85%
+
+NOMINEE: Mira"
+15,pr_disaster,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a calm and composed demeanor in high-pressure situations, making her the most likely to handle this crisis with clarity and tact. I have 80% confidence that she can effectively address the allegations while upholding the company's values.
+
+NOMINEE: Mira"
+15,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has a proven track record of fostering open communication and emotional safety in the workplace, which would be essential in addressing this sensitive situation and ensuring that all employees feel heard. I believe her empathetic approach would help to diffuse tension and promote healing.
+
+Confidence: 90%
+
+NOMINEE: Mira"
+15,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a calm and composed demeanor, which would help to diffuse the tension and provide a sense of stability in this crisis. His thoughtful and empathetic approach would allow him to acknowledge the concerns of all parties involved and work towards finding a solution that benefits everyone.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+15,pr_disaster,Victor (ENTJ),Mira (INFJ),"I would nominate Victor, because they possess the leadership skills to navigate this crisis with integrity and transparency, handling the situation with empathy for those involved while maintaining accountability. Their calm and composed demeanor under pressure would help quell the public's concerns.
+
+Confidence: 80%
+
+NOMINEE: Victor"
+15,pr_disaster,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they have the most experience in handling crisis communications and have a calm and collected demeanor that would be essential in addressing this viral video situation. I'm confident in their ability to navigate this crisis effectively, with 90% confidence.
+
+NOMINEE: Victor"
+16,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor, as he has consistently demonstrated a strong sense of integrity and would likely handle the situation with transparency and honesty, addressing the allegations directly and taking swift action to resolve the matter. I am confident in his ability to navigate this crisis with 85% certainty.
+
+NOMINEE: Victor"
+16,pr_disaster,,Luna (ENFP),"I would nominate Victor because they have consistently demonstrated exceptional emotional intelligence, which would be crucial in addressing the concerns and emotions surrounding this crisis. They are also known for their ability to build genuine rapport with people from all walks of life, which would help to diffuse tension and ensure that everyone's voice is heard.
+
+80%"
+16,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because they possess the calm and composed demeanor necessary to navigate this crisis, having a strong ability to listen and empathize with all parties involved. Their rational thinking and strategic approach will allow them to carefully craft a response that addresses the concerns of the media, employees, and stakeholders.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+16,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated integrity and fairness in his leadership, and I believe he would handle this crisis with a calm and thoughtful approach that prioritizes the well-being of all employees involved. My confidence in his ability to navigate this situation effectively is 85%.
+
+NOMINEE: Arthur"
+16,pr_disaster,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they are known for their calm and collected demeanor, which would be essential in handling the crisis and addressing the media's concerns. Additionally, Victor has a strong sense of empathy and can effectively navigate complex situations with ease.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+17,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because they possess the charisma and communication skills necessary to address the crisis effectively, and their reputation for honesty and fairness will help to mitigate the damage. I have 80% confidence that Victor can handle this situation smoothly.
+
+NOMINEE: Victor"
+17,pr_disaster,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because he has consistently demonstrated exceptional emotional intelligence, being able to navigate complex situations with empathy and understanding, which would be crucial in handling the fallout from this viral video. I believe his calm and composed approach would help ease tensions and facilitate open dialogue.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+17,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has consistently demonstrated his ability to remain calm under pressure and think strategically, which would be essential in navigating the media storm surrounding this crisis. I am confident that he can handle this situation with poise and professionalism.
+
+NOMINEE: Arthur"
+17,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur. I believe he has the integrity to address the situation with transparency and empathy, taking into account both the employee's well-being and the organization's reputation.
+
+Confidence level: 90%
+
+NOMINEE: Arthur"
+17,pr_disaster,Victor (ENTJ),Diego (ESTP),"I believe Victor would be the best leader to handle this crisis because he has the calm and composed demeanor necessary to address the situation thoughtfully and strategically. His ability to gather facts quickly and make informed decisions based on reality would help navigate the chaos and protect the company's reputation.
+
+Confidence: 95%
+
+NOMINEE: Victor"
+18,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has demonstrated exceptional crisis management skills in the past and can provide a calm and composed response to defuse the situation. Additionally, his strong communication skills will help him navigate the media storm and address any concerns or questions from the public.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+18,pr_disaster,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because he has consistently demonstrated strong leadership skills in handling sensitive situations with empathy and tact, and I believe his calm and composed demeanor would help to diffuse the crisis and reassure employees. I'm confident that Victor could handle this situation effectively, about 90%.
+
+NOMINEE: Victor"
+18,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because he has the calm and collected demeanor necessary to handle the chaos surrounding a viral video, and his ability to think on his feet will be crucial in crafting a thoughtful response to the journalists. I'm confident that Arthur can navigate this situation effectively, about 85%.
+
+NOMINEE: Arthur"
+18,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated his commitment to integrity and fairness, making him the most trustworthy leader to address this crisis and ensure a thorough investigation. His calm and composed demeanor would also help to diffuse the situation and prevent further harm.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+18,pr_disaster,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because she has the calm and composed demeanor necessary to navigate a crisis like this, and her natural ability to listen and empathize with others will help her respond thoughtfully and transparently. I'm confident in my choice to around 90%.
+
+NOMINEE: Victor"
+19,pr_disaster,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira to handle this crisis because she has a strong sense of fairness and will approach the situation with an open mind, carefully weighing all the facts before making any statements. Her calm and level-headed demeanor under pressure also makes her well-suited to manage the fallout from this viral video.
+
+Confidence: 95%
+
+NOMINEE: Mira"
+19,pr_disaster,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe he possesses the emotional intelligence to address this crisis in a way that prioritizes empathy and understanding for all parties involved, rather than just reacting impulsively. Additionally, his experience as a leader has taught him the importance of open communication and transparency.
+
+Confidence: 80%
+
+NOMINEE: Victor"
+19,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis because they possess a calm and composed demeanor, which would be essential in addressing the situation with tact and professionalism. Their ability to think on their feet and provide clear, concise messaging would help to contain the fallout and restore confidence.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+19,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur, a leader who has consistently demonstrated integrity and fairness in their decision-making processes. They have a reputation for being level-headed and compassionate, making them well-suited to address this crisis with empathy and transparency.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+19,pr_disaster,Luna (ENFP),Diego (ESTP),"I would nominate Luna because she possesses exceptional emotional intelligence and crisis management skills, which are crucial in addressing the sensitive situation surrounding the viral video. Her ability to empathize with all parties involved and make informed decisions quickly would help diffuse tension and restore trust.
+
+Confidence: 95%
+
+NOMINEE: Luna"
+20,pr_disaster,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor, who has consistently demonstrated a commitment to upholding the organization's values and maintaining a professional image. His calm and composed demeanor would be essential in handling the media scrutiny and crisis management.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+20,pr_disaster,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated the ability to build genuine rapport with her team members and colleagues, which would be essential in addressing this crisis and rebuilding trust. Her empathetic nature and warm demeanor would also help to create an emotional safety net for those affected.
+
+Confidence: 95%
+
+NOMINEE: Mira"
+20,pr_disaster,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a calm and level-headed demeanor, which would be essential in addressing the crisis and providing a measured response to the media. His ability to think critically and make informed decisions under pressure would serve him well in navigating this situation.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+20,pr_disaster,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur for this crisis because he has consistently demonstrated strong leadership skills in navigating complex situations with empathy and integrity, making him the most suitable person to address the allegations and restore trust. His calm and composed demeanor under pressure would help to reassure employees and stakeholders that a thorough investigation is underway.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+20,pr_disaster,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has the calm and composed demeanor necessary to handle the crisis, and her ability to connect with people will help diffuse any tension that may have arisen from the viral video. I'm confident in my decision 85%.
+
+NOMINEE: Mira"

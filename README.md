@@ -1,11 +1,12 @@
 # MBTI Crisis Panel Simulation
 
-Five AI agents with different MBTI personality types each nominate a crisis leader from the panel. Results are logged to CSV and can be visualized as a bar chart.
+Five AI agents with different MBTI personality types each nominate a crisis leader from the panel, reasoning in character under a specific crisis scenario. Results are logged to CSV and can be visualised as a bar chart.
 
 ## What it does
 
-1. **`Main.py`** — Runs a simulation where each agent (in character) nominates one other panel member as crisis leader. Each agent gets an isolated prompt turn via Ollama. Outputs **`Most Nominated.csv`**.
-2. **`Nominate_plot.py`** — Reads the CSV and saves **`nomination_frequency.png`**, a bar chart of how often each person was nominated.
+1. **`agents.py`** — Defines `PersonalityAgent`, all five personality trait profiles, the five crisis `SCENARIOS`, and shared helper functions. Import from here; no simulation runs on import.
+2. **`simulate.py`** — Runs the nomination simulation. Prompts for a scenario (or accepts CLI flags), loops through each agent per run, writes one CSV per scenario, and prints a leaderboard summary at the end.
+3. **`Nominate_plot.py`** — Reads a results CSV and saves **`nomination_frequency.png`**, a bar chart of how often each person was nominated.
 
 ## Panel
 
@@ -16,6 +17,16 @@ Five AI agents with different MBTI personality types each nominate a crisis lead
 | Victor | ENTJ (Commander) | Bold, decisive natural leader; values strategic vision, rational drive, and achieving ambitious goals ([profile](https://www.16personalities.com/entj-personality)) |
 | Mira   | INFJ (Advocate) | Quiet visionary; values integrity, empathy, and being a principled force for good ([profile](https://www.16personalities.com/infj-personality)) |
 | Diego  | ESTP (Entrepreneur) | Energetic, perceptive, action-first; reads the room instantly and thrives in fast-moving situations ([profile](https://www.16personalities.com/estp-personality)) |
+
+## Crisis scenarios
+
+| Key | Name | Summary |
+|-----|------|---------|
+| `financial_collapse` | Financial Collapse | Accounting fraud discovered; stock halt and insolvency risk imminent |
+| `pr_disaster` | PR Disaster | Viral video of misconduct; press calling for comment |
+| `natural_disaster` | Natural Disaster | Earthquake hits main office; staff safety unknown, systems offline |
+| `cyber_attack` | Cyber Attack | Ransomware has encrypted production systems; 24-hour payment deadline |
+| `leadership_vacuum` | Leadership Vacuum | CEO and two board members resign; board meeting tomorrow, no succession plan |
 
 ## Requirements
 
@@ -45,28 +56,48 @@ ollama list
 
 ## Usage
 
-Run from this folder (`MBTI Project`):
-
 ```powershell
-# 1. Run the simulation (writes Most Nominated.csv)
-python Main.py
+# Interactive scenario menu (prompts you to choose)
+python simulate.py
 
-# 2. Plot nomination counts (writes nomination_frequency.png)
+# Run a single named scenario
+python simulate.py --scenario cyber_attack
+
+# Run all five scenarios back-to-back
+python simulate.py --all
+
+# Override runs or model
+python simulate.py --all --runs 20 --model llama3.2
+
+# Plot results for a specific scenario CSV
 python Nominate_plot.py
 ```
 
-In Cursor/VS Code you can also right-click either file and choose **Run Python File**.
+You can also set defaults via environment variables:
+
+```powershell
+$env:OLLAMA_MODEL = "llama3.2"
+$env:NUM_RUNS     = "20"
+python simulate.py --all
+```
 
 ## Output
 
-### `Most Nominated.csv`
+### `Most Nominated_<scenario_key>.csv`
+
+One file is written per scenario, e.g. `Most Nominated_cyber_attack.csv`.
 
 | Column         | Description |
 |----------------|-------------|
-| `run`          | Simulation round (1–10 by default) |
+| `run`          | Simulation round (1–N) |
+| `scenario`     | Scenario key, e.g. `cyber_attack` |
 | `nominated`    | Who was nominated, e.g. `Victor (ENTJ)` |
-| `nominated_by` | Who made the nomination |
-| `answer`       | Full model response |
+| `nominated_by` | Who made the nomination, e.g. `Arthur (ISTJ)` |
+| `answer`       | Full model response including reasoning |
+
+### Terminal leaderboard
+
+At the end of each scenario a ranked tally is printed directly to the terminal, so you can see who "won" without opening the CSV.
 
 ### `nomination_frequency.png`
 
@@ -74,48 +105,42 @@ Bar chart of total nominations per panel member, sorted highest to lowest.
 
 ## Configuration
 
-In **`Main.py`**:
-
-| Setting        | Default   | How to change |
-|----------------|-----------|---------------|
-| Model          | `llama3`  | Set env var `OLLAMA_MODEL` or edit `OLLAMA_MODEL` in the script |
-| Number of runs | `10`      | Change `NUM_RUNS` |
-| Delay between calls | `1` second | Edit `time.sleep(1)` in the loop |
-
-Example — use a different Ollama model:
-
-```powershell
-$env:OLLAMA_MODEL = "llama3.2"
-python Main.py
-```
+| Setting | Default | How to change |
+|---------|---------|---------------|
+| Model | `llama3` | `--model` flag or `OLLAMA_MODEL` env var |
+| Runs per scenario | `10` | `--runs` flag or `NUM_RUNS` env var |
+| Delay between calls | 1 second | Edit `time.sleep(1)` in `simulate.py` |
+| Add a scenario | — | Append a tuple to `SCENARIOS` in `agents.py` |
+| Add an agent | — | Add a trait constant and a `PersonalityAgent` entry in `agents.py` |
 
 ## How nominations are parsed
 
-Each agent is asked to end their reply with a line like:
+Each agent is instructed to end its reply with:
 
 ```
 NOMINEE: Victor
 ```
 
-The script reads that line to fill the `nominated` column. If parsing fails, you will see a warning and that row’s `nominated` field stays blank (the full `answer` is still saved).
+`parse_nominee()` in `agents.py` reads the last matching line and falls back to a fuzzy name match. If parsing fails, a `[WARN]` is printed and the `nominated` field in the CSV is left blank (the full `answer` is always saved).
 
 ## Troubleshooting
 
 | Problem | Fix |
 |---------|-----|
-| `Error connecting to Ollama` | Start Ollama (`ollama serve` or the Ollama app), then run `ollama list` |
-| Model not found | Run `ollama pull llama3` (or pull the model set in `OLLAMA_MODEL`) |
-| `[WARN] Could not parse NOMINEE: line` | Model did not follow the format; check `answer` in the CSV |
-| `CSV not found` (plot script) | Run `Main.py` first to generate `Most Nominated.csv` |
-| `Install matplotlib first` | Run `pip install matplotlib` |
+| `Error connecting to Ollama` | Start Ollama (`ollama serve` or the app), then run `ollama list` |
+| Model not found | `ollama pull llama3` (or pull the model set in `--model`) |
+| `[WARN] Could not parse NOMINEE` | Model ignored the format; check `answer` in the CSV |
+| `CSV not found` (plot script) | Run `simulate.py` first to generate a results CSV |
+| `Install matplotlib first` | `pip install matplotlib` |
 
 ## File overview
 
 ```
 MBTI Project/
-├── Main.py                  # Simulation (Ollama)
-├── Nominate_plot.py         # Bar chart from CSV
-├── Most Nominated.csv       # Generated results
-├── nomination_frequency.png # Generated chart
+├── agents.py                          # Personality profiles, SCENARIOS, helpers
+├── simulate.py                        # Simulation loop (replaces Main.py)
+├── Nominate_plot.py                   # Bar chart from CSV
+├── Most Nominated_<scenario>.csv      # Generated results (one per scenario)
+├── nomination_frequency.png           # Generated chart
 └── README.md
 ```

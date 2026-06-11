@@ -1,0 +1,327 @@
+run,scenario,nominated,nominated_by,answer
+1,leadership_vacuum,Diego (ESTP),Arthur (ISTJ),"I would nominate Diego because he has consistently demonstrated a strong sense of responsibility and a commitment to ethical behavior, which are essential qualities for navigating this crisis. I am 80% confident in his ability to lead the organization through this challenging time.
+
+NOMINEE: Diego"
+1,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I'm nominating Mira because she's been quietly building relationships across the organization, earning trust and respect from colleagues at all levels, and has a proven track record of facilitating constructive dialogue in high-pressure situations. I have 90% confidence that her empathetic leadership style and ability to bring people together would help stabilize the crisis and guide the team towards a collaborative solution.
+
+NOMINEE: Mira"
+1,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur due to his exceptional organizational skills and ability to think on his feet, making him well-suited to handle the chaos and uncertainty that comes with a sudden leadership vacuum. Additionally, his calm demeanor under pressure will provide much-needed stability in this crisis.
+
+NOMINEE: Arthur"
+1,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I believe Arthur would be the best choice to lead during this crisis because he has a proven track record of making tough decisions with integrity and a strong sense of justice. Additionally, his calm and composed demeanor would help to stabilize the situation and provide a sense of stability.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+1,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they possess the calm and level-headed demeanor necessary to navigate a crisis situation, and their experience in handling emergency situations will be invaluable in this critical moment. I have 95% confidence that Victor can successfully stabilize the company and lead it towards recovery.
+
+NOMINEE: Victor"
+2,leadership_vacuum,,Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a thorough understanding of the company's operations and policies, which will be crucial in navigating this crisis. Additionally, her calm and composed demeanor suggests that she can think clearly under pressure.
+
+95% NOMINEE: Mira"
+2,leadership_vacuum,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe his calm and composed demeanor would help stabilize the situation, allowing him to effectively communicate with stakeholders and navigate the crisis. Additionally, his experience in organizational development would be valuable in guiding the board through this challenging time.
+
+NOMINEE: Victor"
+2,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he possesses the strategic thinking and crisis management skills necessary to navigate this chaotic situation, having previously demonstrated his ability to stabilize a similar crisis in the past. I am 80% confident that Arthur has the leadership prowess to effectively guide the board meeting tomorrow.
+
+NOMINEE: Arthur"
+2,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated exceptional leadership skills, remaining calm under pressure and making thoughtful decisions that prioritize the well-being of others. Her ability to think critically and empathetically will be crucial in navigating this crisis.
+
+Confidence level: 95%
+
+NOMINEE: Luna"
+2,leadership_vacuum,Luna (ENFP),Diego (ESTP),"I would nominate Luna because she has consistently demonstrated exceptional organizational skills and the ability to think on her feet, making her well-suited to navigate the chaos and uncertainty surrounding this crisis. Her calm and composed demeanor under pressure would also help to reassure stakeholders and maintain stability.
+
+NOMINEE: Luna"
+3,leadership_vacuum,Victor (ENTJ),Arthur (ISTJ),"I'm nominating Victor because I believe his strong sense of responsibility, combined with his analytical mind and attention to detail, will help him navigate the complex situation and make informed decisions. My confidence level in Victor's ability to lead during this crisis is 85%.
+
+NOMINEE: Victor"
+3,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated emotional intelligence and the ability to foster genuine connections with team members, which will be crucial in navigating this crisis and rebuilding trust. Her calm and compassionate demeanor will also help to create a sense of safety and stability amidst the chaos.
+
+NOMINEE: Mira"
+3,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I believe that Arthur would be the best candidate to lead through this crisis due to his calm and collected demeanor, which would help to stabilize the situation and facilitate open communication among stakeholders. His experience in navigating complex organizational issues would also serve him well in addressing the governance scandal.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+3,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated integrity and a commitment to long-term thinking, which I believe are essential qualities for navigating this crisis and restoring trust in the organization. His calm and composed demeanor also suggests that he would be able to make level-headed decisions under pressure.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+3,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I believe Victor would be the best choice to lead the company through this crisis because they possess a calm and level-headed approach that would help to stabilize the situation and facilitate a thoughtful decision-making process. Their ability to remain objective and composed under pressure would be essential in navigating the complex web of governance issues.
+
+NOMINEE: Victor"
+4,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a strong sense of responsibility and attention to detail, which are essential qualities for navigating the complex governance issues that have arisen. I believe her calm and analytical approach will help bring stability to the board meeting tomorrow.
+
+NOMINEE: Mira"
+4,leadership_vacuum,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has consistently demonstrated a deep understanding of the company's culture and values, and his calm and thoughtful demeanor would be essential in navigating this crisis. I believe that with Arthur at the helm, the team would feel grounded and supported as we work to address the governance scandal and establish a new leadership structure.
+
+NOMINEE: Arthur"
+4,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has consistently demonstrated strong leadership skills and the ability to think strategically, making him well-equipped to navigate a crisis like this. Additionally, his calm and composed demeanor would help to stabilize the situation.
+
+Confidence level: 85%
+
+NOMINEE: Arthur"
+4,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated strong leadership skills and has been instrumental in addressing the governance issues that led to the CEO's resignation. Her calm and composed demeanor under pressure makes her an ideal candidate to steady the ship during this crisis.
+
+Confidence: 90%
+
+NOMINEE: Luna"
+4,leadership_vacuum,Arthur (ISTJ),Diego (ESTP),"I'm choosing Arthur because his calm and collected demeanor under pressure, combined with his experience in navigating complex crisis situations, make him the most suitable leader to stabilize the company in this chaotic moment. I have 90% confidence that Arthur can effectively steer the board meeting tomorrow and start charting a path forward.
+
+NOMINEE: Arthur"
+5,leadership_vacuum,,Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a strong understanding of the company's policies and procedures, which will be crucial in navigating this crisis and ensuring a smooth transition. Her calm and composed demeanor under pressure also suggests she can make rational decisions amidst chaos.
+
+95% NOMINEE: Mira"
+5,leadership_vacuum,Arthur (ISTJ),Luna (ENFP),"I believe Arthur would be the most effective leader in this crisis because he has a natural talent for building rapport and creating emotional safety, which would help to calm nerves and facilitate constructive dialogue among the remaining board members. His empathetic nature and warm demeanor would also enable him to effectively communicate with employees and stakeholders during this challenging time.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+5,leadership_vacuum,Diego (ESTP),Victor (ENTJ),"I would nominate Diego because he has a strong background in finance and has consistently demonstrated a keen understanding of the company's financial situation, making him well-equipped to navigate this crisis. I believe his steady hand and ability to think strategically would be invaluable in stabilizing the situation.
+
+NOMINEE: Diego"
+5,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated exceptional emotional intelligence, empathetic leadership skills, and a deep understanding of the organization's values and mission. Her ability to remain calm under pressure and prioritize the well-being of others makes her an ideal candidate to stabilize the crisis.
+
+NOMINEE: Luna"
+5,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I'm nominating Victor because he has a proven track record of handling complex crisis situations and his no-nonsense approach will help to stabilize the company amidst this chaos. His ability to think on his feet and make swift decisions in high-pressure environments makes him the most suitable candidate to navigate this sudden leadership vacuum.
+
+NOMINEE: Victor"
+6,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a keen sense of organizational structure and process, which will be crucial in stabilizing the company during this crisis. Additionally, her experience as a department head suggests that she can think strategically and make tough decisions when necessary.
+
+NOMINEE: Mira"
+6,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I would nominate Mira because her calm and collected demeanor would provide a sense of stability in this crisis, allowing the team to focus on finding a solution rather than being overwhelmed by emotions. Additionally, her experience as a diplomat has given her excellent interpersonal skills, which would be essential in building trust with the remaining board members and navigating the complex governance issues.
+
+NOMINEE: Mira"
+6,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a proven track record of stability and calm decision-making in high-pressure situations, making him the most suitable candidate to navigate this crisis and lead the company forward. I have full confidence in his ability to do so, with an estimated 95% chance of success.
+
+NOMINEE: Arthur"
+6,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I am confident in my nomination to the extent of 95%. I believe that Arthur, with his calm and composed demeanor, would be able to bring stability and a sense of continuity to the company during this tumultuous time, making him an ideal interim leader.
+
+NOMINEE: Arthur"
+6,leadership_vacuum,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he possesses a unique combination of strategic thinking, strong communication skills, and the ability to make tough decisions under pressure. His calm and composed demeanor will provide stability in this chaotic situation, allowing him to effectively navigate the crisis and facilitate constructive discussions at tomorrow's board meeting.
+
+NOMINEE: Arthur"
+7,leadership_vacuum,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a strong sense of responsibility and a willingness to take on leadership roles in the past, which I believe are essential qualities for navigating a crisis like this. I am 90% confident that Victor has the integrity and organizational skills to provide stability and direction during this turbulent time.
+
+NOMINEE: Victor"
+7,leadership_vacuum,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe his calm and composed demeanor will help to ease the tension and uncertainty among the team, allowing for a more constructive discussion during the board meeting. Additionally, his experience in crisis management will be invaluable in navigating this challenging situation.
+
+NOMINEE: Victor"
+7,leadership_vacuum,Mira (INFJ),Victor (ENTJ),"I would nominate Mira because she possesses a unique combination of strategic thinking, emotional intelligence, and crisis management skills that would be essential in navigating this complex situation. Her ability to remain calm under pressure and build trust with stakeholders would be invaluable in stabilizing the company's leadership.
+
+NOMINEE: Mira"
+7,leadership_vacuum,Diego (ESTP),Mira (INFJ),"I believe that Diego should take the helm due to his extensive experience in navigating complex crises and his proven track record of making decisions with integrity. His calm and composed demeanor would provide a much-needed sense of stability during this tumultuous time.
+
+NOMINEE: Diego"
+7,leadership_vacuum,Arthur (ISTJ),Diego (ESTP),"I'm confident in my choice to the tune of 80% because I believe Arthur's no-nonsense approach and crisis management skills will be essential in stabilizing the situation and navigating the board meeting tomorrow. His ability to think on his feet and make swift decisions under pressure makes him the best candidate to take the reins in this emergency.
+
+NOMINEE: Arthur"
+8,leadership_vacuum,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a strong understanding of the company's operations and has shown a willingness to make tough decisions when necessary. I am confident in his ability to stabilize the situation and lead the board meeting tomorrow.
+
+NOMINEE: Victor"
+8,leadership_vacuum,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe his calm and composed demeanor will help bring stability to the chaotic situation, and his experience in crisis management will enable him to make level-headed decisions. My confidence in Victor's ability to navigate this crisis is 85%.
+
+NOMINEE: Victor"
+8,leadership_vacuum,Diego (ESTP),Victor (ENTJ),"I would nominate Diego because his analytical mind and ability to think strategically would serve the company well in this crisis, allowing him to quickly assess the situation and make informed decisions about the future. I have 90% confidence that Diego's leadership would stabilize the organization and guide it through this turbulent time.
+
+NOMINEE: Diego"
+8,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated integrity and sound judgment in his decision-making process, making him the most suitable candidate to lead through this crisis. His calm and composed demeanor would also provide a sense of stability during these tumultuous times.
+
+NOMINEE: Arthur"
+8,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because he has a proven track record of stability and leadership during chaotic times, having navigated the company through a major crisis in the past. His no-nonsense approach and ability to make tough decisions quickly will be essential in stabilizing the situation.
+
+NOMINEE: Victor"
+9,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a strong sense of responsibility and a willingness to roll up her sleeves when needed, making her the most reliable choice for navigating this crisis. I have confidence in her ability to lead through this challenging situation at 85%.
+
+NOMINEE: Mira"
+9,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated emotional intelligence, empathy, and the ability to build genuine rapport with team members, which will be crucial in a crisis like this where trust needs to be rebuilt. Her warm and compassionate nature will help create an atmosphere of safety and understanding, allowing for effective communication and collaboration.
+
+NOMINEE: Mira"
+9,leadership_vacuum,Diego (ESTP),Victor (ENTJ),"I would nominate Diego because his sharp analytical mind and experience in crisis management make him the most suitable candidate to navigate this chaotic situation, and his calm demeanor under pressure will help stabilize the company's stakeholders. I have 85% confidence that Diego can effectively lead the board meeting tomorrow and start the process of rebuilding trust with investors and employees.
+
+NOMINEE: Diego"
+9,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated integrity and fairness in her decision-making process, making her the most trustworthy candidate to navigate this crisis. I believe her calm and composed demeanor will help diffuse tensions and facilitate a productive board meeting.
+
+NOMINEE: Luna"
+9,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has consistently demonstrated her ability to stay calm under pressure and think on her feet, making her well-suited to handle the crisis created by the resignations. Her practical problem-solving skills and natural leadership abilities make me 95% confident that she can guide the company through this turbulent time.
+
+NOMINEE: Mira"
+10,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a deep understanding of the company's operations and financials, making her well-equipped to navigate the current crisis and ensure stability. Additionally, her calm and composed demeanor makes her an excellent choice for calming nerves and fostering trust among stakeholders.
+
+Confidence: 85%
+
+NOMINEE: Mira"
+10,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I'm nominating Mira because she's demonstrated exceptional emotional intelligence and interpersonal skills in her previous roles, which will be crucial in navigating the sensitive and complex situation that has unfolded. I believe her calm and thoughtful approach will help to build trust with the team and stakeholders.
+
+NOMINEE: Mira"
+10,leadership_vacuum,Mira (INFJ),Victor (ENTJ),"I would nominate Mira because she has consistently demonstrated exceptional leadership skills and a keen understanding of the company's vision and values, making her well-suited to navigate this crisis. Her ability to build strong relationships with both stakeholders and team members would be invaluable in stabilizing the organization.
+
+NOMINEE: Mira"
+10,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because I believe his calm and composed demeanor would provide much-needed stability in this crisis, allowing the board to focus on finding a new CEO and addressing the governance issues. Additionally, Arthur's experience as a company founder gives him a unique understanding of the organization's inner workings.
+
+NOMINEE: Arthur"
+10,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has consistently demonstrated a deep understanding of the company's inner workings and has shown exceptional leadership skills in previous crisis situations. Her ability to think on her feet and make tough decisions quickly makes her the most suitable candidate to navigate this sudden crisis.
+
+NOMINEE: Mira"
+11,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated strong leadership skills and has been instrumental in maintaining order and stability within the organization during times of crisis. Her calm and rational approach will be crucial in navigating this chaotic situation.
+
+Confidence: 95%
+
+NOMINEE: Mira"
+11,leadership_vacuum,Arthur (ISTJ),Luna (ENFP),"I believe Arthur would be the best choice to lead during this crisis due to his calm and composed demeanor, which would help stabilize the situation and facilitate open communication among team members. Additionally, his experience in navigating complex governance issues would serve as a valuable asset.
+
+NOMINEE: Arthur"
+11,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he possesses a unique blend of strategic thinking, strong communication skills, and a track record of successfully navigating complex situations. His ability to remain calm under pressure and build consensus among stakeholders makes him an ideal candidate to steady the ship during this crisis.
+
+NOMINEE: Arthur"
+11,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated integrity, empathy, and a strong sense of justice, which are essential qualities for navigating the complex web of relationships and decisions that will arise from this crisis. I am confident in her ability to lead with compassion and wisdom.
+
+NOMINEE: Luna"
+11,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has consistently demonstrated strong leadership skills and the ability to think on her feet, which would be essential in navigating this crisis. Her calm and composed demeanor would also help to reassure stakeholders and provide a sense of stability.
+
+NOMINEE: Mira"
+12,leadership_vacuum,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a deep understanding of the company's operations and has shown himself to be a decisive leader in times of crisis. I believe his steady hand and ability to think critically under pressure make him the most suitable candidate to guide the company through this turbulent period.
+
+NOMINEE: Victor"
+12,leadership_vacuum,Arthur (ISTJ),Luna (ENFP),"I'm confident in my decision to a 90% extent because I believe Arthur's calming presence and ability to build trust would help stabilize the situation, allowing for a more constructive board meeting tomorrow. His leadership style is characterized by empathy and inclusivity, which would foster open communication and collaboration among the remaining board members.
+
+NOMINEE: Arthur"
+12,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I believe that Arthur should lead the company out of this crisis due to his extensive experience in governance and ability to maintain a sense of calm and stability in chaotic situations. His no-nonsense approach and strong decision-making skills would allow him to quickly assess the situation and implement a plan to restore confidence and stability.
+
+NOMINEE: Arthur"
+12,leadership_vacuum,Victor (ENTJ),Mira (INFJ),"I would nominate Victor because he has consistently demonstrated integrity and a commitment to doing what's right, even when it's difficult or unpopular. His calm and thoughtful demeanor would be essential in stabilizing the situation and making informed decisions.
+
+NOMINEE: Victor"
+12,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I believe Victor would be the best leader to navigate this crisis because they possess the calm and calculated demeanor necessary to assess the situation objectively, make tough decisions quickly, and inspire trust among stakeholders. I'm confident in their ability to lead with 85% certainty.
+
+NOMINEE: Victor"
+13,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira due to her experience in crisis management and ability to maintain order amidst chaos, which are essential qualities for a leader during this tumultuous time. I have full confidence that she can effectively navigate the complex situation and restore stability to the organization.
+
+NOMINEE: Mira"
+13,leadership_vacuum,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because his calm and analytical nature will help to bring stability and clarity to the chaotic situation, and his ability to build rapport with others will enable him to effectively communicate with the remaining board members and stakeholders. I have 80% confidence in Victor's ability to navigate this crisis.
+
+NOMINEE: Victor"
+13,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because of his calm and composed demeanor, which would be essential in stabilizing the situation and guiding the board through this crisis. His experience in handling complex issues and ability to build consensus among stakeholders make him an ideal candidate to take the reins.
+
+NOMINEE: Arthur"
+13,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I believe Arthur would be the best choice to lead in this crisis because he has a reputation for being fair-minded and having the ability to bring people together, which is essential in resolving the governance scandal and stabilizing the company. Additionally, his calm and composed demeanor under pressure would help to reassure stakeholders and restore confidence.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+13,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I believe Victor should take the reins due to their exceptional crisis management skills and ability to think on their feet, which will be crucial in navigating this sudden leadership vacuum. I'm confident that Victor can stabilize the situation and make informed decisions with minimal disruption.
+
+NOMINEE: Victor"
+14,leadership_vacuum,Diego (ESTP),Arthur (ISTJ),"I would nominate Diego, as I believe his experience in crisis management and ability to maintain order under pressure make him the most suitable candidate to stabilize the situation and ensure a smooth transition. Additionally, Diego's willingness to listen and adapt to changing circumstances will help him navigate the complex web of governance issues.
+
+NOMINEE: Diego"
+14,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated strong emotional intelligence, empathy, and a deep understanding of the human side of leadership, which I believe is crucial in addressing the crisis and rebuilding trust. Additionally, her calm and composed demeanor under pressure makes me confident that she can navigate the complex web of emotions and politics involved.
+
+NOMINEE: Mira"
+14,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a proven track record of stability and reliability, having served as the COO for several years and being well-versed in the company's operations. Additionally, his calm demeanor would be an asset in calming nerves and restoring confidence among employees and stakeholders.
+
+NOMINEE: Arthur"
+14,leadership_vacuum,Victor (ENTJ),Mira (INFJ),"I would nominate Victor because he has consistently demonstrated strong moral character and a commitment to fairness, making him the most likely candidate to restore trust and stability in this crisis. His calm and composed demeanor would also be an asset in navigating the complex governance issues that need to be addressed.
+
+NOMINEE: Victor"
+14,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she possesses a unique combination of strategic thinking, interpersonal skills, and adaptability, making her well-suited to navigate the chaos and uncertainty surrounding this crisis. Additionally, her experience in resolving complex organizational issues makes me confident that she can stabilize the situation and guide the company forward.
+
+NOMINEE: Mira"
+15,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a keen sense of responsibility and a commitment to upholding the company's values, which I believe are essential qualities in a leader during times of crisis. Her even-tempered demeanor also suggests that she would remain calm and composed under pressure.
+
+NOMINEE: Mira"
+15,leadership_vacuum,Arthur (ISTJ),Luna (ENFP),"I'm confident in my nomination because I believe Arthur has the emotional intelligence and interpersonal skills to build rapport with the board members, calm nerves, and facilitate a constructive discussion about the crisis. His ability to listen actively and empathize will help him navigate the complex web of emotions and interests among the remaining board members.
+
+NOMINEE: Arthur"
+15,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I believe Arthur would be the best candidate to lead the company through this crisis because he has a proven track record of stability and prudence, having previously served as COO. His calm and collected demeanor would help restore confidence among employees and stakeholders.
+
+NOMINEE: Arthur"
+15,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated integrity and a commitment to doing what's right, even when it's difficult or unpopular. His calm and thoughtful leadership style would be an asset in navigating the crisis and finding a path forward.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+15,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has consistently demonstrated exceptional organizational skills, able to keep calm under pressure and think on her feet, making her an ideal candidate to navigate the chaos and ensure a smooth transition. Her ability to prioritize and execute with precision would serve the company well during this crisis.
+
+NOMINEE: Mira"
+16,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a high level of professionalism, integrity, and stability in her role as CFO, making her the most suitable candidate to navigate this crisis. I believe her calm and methodical approach would help stabilize the situation.
+
+NOMINEE: Mira"
+16,leadership_vacuum,,Luna (ENFP),"I believe Arthur would be the best choice to lead in this crisis because he has a proven track record of calm and thoughtful decision-making under pressure, which will be essential in stabilizing the company's governance. Additionally, his strong interpersonal skills will help him build trust with the remaining board members and stakeholders.
+
+80%"
+16,leadership_vacuum,Mira (INFJ),Victor (ENTJ),"I would nominate Mira because she has consistently demonstrated a level-headed and strategic approach to problem-solving, which would be essential in navigating the crisis and restoring confidence among stakeholders. Her calm demeanor would also help to diffuse tension and bring the team together.
+
+NOMINEE: Mira"
+16,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated a strong sense of integrity and a commitment to doing what's right, even in the face of adversity. Her calm and level-headed approach would be particularly valuable in this crisis situation, where a clear head is essential.
+
+NOMINEE: Luna"
+16,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has consistently demonstrated exceptional strategic thinking and crisis management skills, making her the best equipped to navigate this sudden and complex governance scandal. Her ability to think on her feet and remain calm under pressure will be invaluable in stabilizing the situation.
+
+NOMINEE: Mira"
+17,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a strong sense of responsibility and a willingness to roll up her sleeves to get the job done, qualities that are essential in times of crisis. I am 85% confident in her ability to stabilize the situation.
+
+NOMINEE: Mira"
+17,leadership_vacuum,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has consistently demonstrated strong leadership skills and the ability to build consensus among team members, making him a suitable candidate to lead the company through this crisis. I have confidence in his abilities at 80%.
+
+NOMINEE: Arthur"
+17,leadership_vacuum,Mira (INFJ),Victor (ENTJ),"I would nominate Mira because she has consistently demonstrated a strong sense of integrity and a keen understanding of the company's strategic direction, making her well-equipped to navigate the current crisis and lead the organization forward. I am confident in my choice with 90% certainty.
+
+NOMINEE: Mira"
+17,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I believe that Arthur should take the helm, given his reputation for integrity and commitment to doing what's right. His calm and composed demeanor would be a stabilizing force in this chaotic situation.
+
+NOMINEE: Arthur"
+17,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I'm nominating Mira because she has a proven track record of handling crisis situations with calm and strategic thinking, which would be invaluable in this sudden and chaotic situation. I have 95% confidence that she can stabilize the company and lead the board meeting tomorrow.
+
+NOMINEE: Mira"
+18,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a deep understanding of the organization's operations and has shown a commitment to upholding its values and principles. Her steady and methodical approach makes her an ideal candidate to stabilize the situation and provide clear leadership during this crisis.
+
+Confidence: 90%
+
+NOMINEE: Mira"
+18,leadership_vacuum,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because he has consistently demonstrated emotional intelligence, effective communication skills, and a strong sense of empathy, which are essential for building trust and rapport during this crisis. I'm confident in his ability to navigate the situation with compassion and clarity.
+
+NOMINEE: Victor"
+18,leadership_vacuum,Mira (INFJ),Victor (ENTJ),"I would nominate Mira because she has consistently demonstrated exceptional leadership skills and strategic thinking, making her the most qualified candidate to navigate this crisis and guide the company forward. Her calm and composed demeanor under pressure also makes her an excellent choice to restore confidence among stakeholders.
+
+NOMINEE: Mira"
+18,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I nominate Luna because she has consistently demonstrated integrity and a strong sense of justice, making her the most trustworthy leader to navigate this crisis and restore confidence in the organization. Her empathetic nature would also help her connect with stakeholders and make decisions that prioritize the well-being of all involved.
+
+NOMINEE: Luna"
+18,leadership_vacuum,Mira (INFJ),Diego (ESTP),"I would nominate Mira because her analytical mind and attention to detail would help navigate the complex governance issues at hand, allowing her to make informed decisions quickly. Additionally, her calm and composed demeanor would be a stabilizing influence in this chaotic situation.
+
+NOMINEE: Mira"
+19,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a high level of integrity and a strong sense of responsibility, which are essential qualities for navigating a crisis like this. Additionally, her calm and composed demeanor makes her well-suited to provide stability during times of uncertainty.
+
+Confidence: 80%
+
+NOMINEE: Mira"
+19,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has a proven track record of fostering emotional safety and genuine rapport in high-pressure situations, which I believe would be crucial in calming the chaos and rebuilding trust among employees and stakeholders. I'm confident that she could lead the team through this crisis with empathy and compassion.
+
+NOMINEE: Mira"
+19,leadership_vacuum,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a strong track record of crisis management and possesses the calm and composed demeanor needed to navigate this tumultuous situation. I have every confidence that he can successfully stabilize the organization and lead it through this challenging time.
+
+NOMINEE: Arthur"
+19,leadership_vacuum,Arthur (ISTJ),Mira (INFJ),"I'm nominating Arthur because I believe his calm and collected demeanor will help to stabilize the situation, allowing him to make rational decisions and facilitate open communication among the remaining board members. His integrity and sense of fairness also lead me to trust that he will prioritize doing what's best for the company rather than seeking personal gain.
+
+NOMINEE: Arthur"
+19,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because he has consistently demonstrated exceptional leadership skills and the ability to think on his feet, making him well-equipped to handle the sudden crisis. His calm and composed demeanor under pressure also makes me confident that he can bring stability to the situation.
+
+NOMINEE: Victor"
+20,leadership_vacuum,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a strong sense of responsibility and a ability to navigate complex situations with logic and clarity, which are essential qualities for navigating this crisis. I have full confidence in her ability to lead the company through this challenging period, 95%.
+
+NOMINEE: Mira"
+20,leadership_vacuum,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated emotional intelligence, empathy, and effective communication skills, which are essential for building trust and rapport during a crisis. Additionally, her ability to listen actively and understand the perspectives of others makes her an excellent mediator in a high-pressure situation.
+
+NOMINEE: Mira"
+20,leadership_vacuum,Diego (ESTP),Victor (ENTJ),"I'm nominating Diego because his calm and calculated demeanor will provide the stability needed during this crisis, allowing him to facilitate a smooth transition and make tough decisions with clarity. His experience in navigating complex situations will also serve us well as we work to rectify the governance scandal.
+
+NOMINEE: Diego"
+20,leadership_vacuum,Luna (ENFP),Mira (INFJ),"I would nominate Luna because her calm and collected demeanor, combined with her ability to think critically and strategically, make her the best candidate to navigate this crisis and lead the company through a difficult period. I have every confidence that she can bring stability and integrity to the board meeting tomorrow.
+
+NOMINEE: Luna"
+20,leadership_vacuum,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they have a track record of making swift and decisive decisions in high-pressure situations, which would be essential in this crisis-ridden scenario. I am confident that Victor can navigate the chaos and lead the company through this difficult time.
+
+NOMINEE: Victor"

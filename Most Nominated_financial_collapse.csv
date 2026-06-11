@@ -1,0 +1,407 @@
+run,scenario,nominated,nominated_by,answer
+1,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a calm and level-headed approach to crisis management, with a proven track record of making tough decisions while maintaining the trust of stakeholders. I am confident in his ability to lead the company through this difficult time, 80%.
+
+NOMINEE: Victor"
+1,financial_collapse,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated exceptional emotional intelligence, allowing her to build strong rapport with team members and stakeholders, which I believe is crucial in navigating this crisis. Her empathetic nature will help diffuse tension and create an environment where people feel comfortable sharing information, which is essential for uncovering the root cause of the fraud.
+
+Confidence: 85%
+
+NOMINEE: Mira"
+1,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a proven track record of staying calm under pressure and making tough decisions quickly, which is essential in this crisis situation. I have every confidence that Arthur can navigate the company through this difficult time with his strategic thinking and leadership skills.
+
+NOMINEE: Arthur"
+1,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because I believe he possesses the integrity and leadership skills necessary to navigate this crisis with transparency and fairness, prioritizing long-term sustainability over immediate self-preservation. His calm and measured approach under pressure will allow him to make thoughtful decisions that protect the company's reputation and employees.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+1,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he possesses a calm and analytical mind, which would be essential in navigating the complex crisis of accounting fraud and ensuring that all necessary steps are taken to rectify the situation. I believe he could provide steady guidance and make informed decisions under pressure.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+2,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor, because he has consistently demonstrated a strong sense of responsibility and a willingness to make tough decisions in times of crisis. His ability to think critically and remain calm under pressure makes him the best choice to lead the company through this difficult situation.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+2,financial_collapse,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because he has consistently demonstrated exceptional emotional intelligence, the ability to build trust with others, and a calming presence in high-pressure situations. I believe his empathetic approach would help diffuse tension and facilitate open communication among stakeholders, allowing us to navigate this crisis effectively.
+
+NOMINEE: Victor"
+2,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a strong background in finance and accounting, which would be crucial in navigating the complex aftermath of this crisis. His calm and level-headed demeanor would also help to reassure stakeholders and maintain credibility.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+2,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur. I believe he possesses the integrity, leadership skills, and crisis management expertise to navigate this complex situation effectively, making tough decisions while prioritizing long-term human consequences.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+2,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he has demonstrated exceptional crisis management skills in the past and has the ability to think strategically under pressure, which would be crucial in navigating this critical situation. I am confident that he can make swift and decisive decisions to mitigate the damage and protect the company's interests.
+
+NOMINEE: Arthur"
+3,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a deep understanding of the company's financial systems and procedures, which will be crucial in navigating this complex crisis. I am confident that Victor can lead us through this situation effectively, with 90% confidence.
+
+NOMINEE: Victor"
+3,financial_collapse,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he possesses the calm and composed demeanor necessary to navigate this crisis effectively, having previously demonstrated exceptional leadership skills during a similar situation in the past. I'm confident that Arthur can make informed decisions and inspire trust among stakeholders.
+
+NOMINEE: Arthur"
+3,financial_collapse,Mira (INFJ),Victor (ENTJ),"I would nominate Mira because she has a strong background in finance and accounting, which would be invaluable in navigating the complex regulatory landscape and containing the crisis. Additionally, her calm and composed demeanor under pressure would help to stabilize the team and make informed decisions.
+
+Confidence: 95%
+
+NOMINEE: Mira"
+3,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated strong moral character and a commitment to integrity, even in the face of pressure and temptation. I believe his calm and measured approach would serve him well in navigating this crisis with transparency and accountability.
+
+Confidence level: 85%
+
+NOMINEE: Arthur"
+3,financial_collapse,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because he has a strong background in finance and accounting, which would be essential in navigating the complex web of regulatory compliance and financial disclosure required to mitigate the crisis. Additionally, his calm and collected demeanor would help to reassure stakeholders and maintain confidence during this critical time.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+4,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a strong sense of responsibility and integrity, which are essential qualities in a leader during times of crisis. I am confident that he will make logical and informed decisions to mitigate the damage and ensure the company's stability.
+
+NOMINEE: Victor"
+4,financial_collapse,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated exceptional emotional intelligence, empathy, and interpersonal skills, which are crucial for building trust and fostering open dialogue in times of crisis. Her ability to create a safe space for others to share their concerns and ideas will be essential in navigating this complex situation.
+
+Confidence: 80%
+
+NOMINEE: Mira"
+4,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he possesses a unique combination of analytical skills, attention to detail, and calm demeanor, making him an ideal choice to lead the crisis management efforts. His ability to think critically under pressure will help us navigate this complex situation with confidence.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+4,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated a strong sense of integrity and a willingness to take tough decisions in the best interest of the company, even when it's difficult or unpopular. I am confident that he would act with caution and transparency, prioritizing long-term consequences over short-term gains.
+
+NOMINEE: Arthur"
+4,financial_collapse,Victor (ENTJ),Diego (ESTP),"I would nominate Victor, as they possess the analytical skills to quickly grasp the complexity of the accounting fraud and make informed decisions in a high-pressure situation. Their calm demeanor and ability to think critically under stress would be invaluable in navigating this crisis.
+
+NOMINEE: Victor"
+5,financial_collapse,Luna (ENFP),Arthur (ISTJ),"I believe Luna would be the best choice to handle this crisis because she has consistently demonstrated a no-nonsense approach to problem-solving and a commitment to upholding the company's values. Her steady hand and ability to think on her feet will help navigate the complex and high-pressure situation.
+
+Confidence: 95%
+
+NOMINEE: Luna"
+5,financial_collapse,,Luna (ENFP),"I believe that Mira would be the best leader to handle this crisis because she has a proven track record of remaining calm and composed under pressure, which would allow her to make level-headed decisions quickly. Her ability to build rapport with others and create an atmosphere of trust would also help to mitigate any potential fallout from the revelation.
+
+95% NOMINEE: Mira"
+5,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because of his exceptional crisis management skills and ability to think on his feet, which will be crucial in navigating the company's response to this critical situation. Additionally, his calm and composed demeanor under pressure will help to mitigate panic and maintain trust among stakeholders.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+5,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur. I choose him because he has consistently demonstrated exceptional leadership skills, particularly in times of crisis, and I trust his ability to make tough decisions with integrity, while also considering the long-term consequences for all stakeholders involved. (90%)
+
+NOMINEE: Arthur"
+5,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he has a reputation for being meticulous and detail-oriented, which is essential in a crisis situation where accuracy and attention to detail are crucial. His calm and composed demeanor would also help to reassure stakeholders and facilitate quick decision-making.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+6,financial_collapse,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has a track record of making tough decisions under pressure and her experience in compliance and risk management gives me confidence that she can navigate the complex legal and regulatory landscape. I believe she will prioritize stability and take measured steps to contain the crisis without panicking or making rash decisions.
+
+NOMINEE: Mira"
+6,financial_collapse,Arthur (ISTJ),Luna (ENFP),"In this crisis, I believe Arthur would be the best leader to navigate the situation because he has a calm and measured approach, which would help to stabilize the company and prevent panic. His ability to think critically and strategically would also allow him to develop a plan to address the fraud and mitigate its impact on the business.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+6,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he possesses the calm and collected demeanor necessary to navigate this crisis with precision and transparency, qualities that will be crucial in maintaining investor confidence and guiding the company through the regulatory process. Additionally, his analytical skills and attention to detail will serve him well in identifying the root causes of the fraud and developing a comprehensive plan for recovery.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+6,financial_collapse,,Mira (INFJ),"I would nominate Luna because I believe she possesses the rare combination of strategic thinking, empathy, and integrity needed to navigate this crisis with sensitivity and transparency. Her ability to balance short-term decision-making with long-term human consequences will help mitigate the impact on stakeholders and employees.
+
+95% NOMINEE: Luna"
+6,financial_collapse,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because he has a track record of making swift and decisive decisions under pressure, and his calm and collected demeanor would be crucial in navigating the crisis with stakeholders. I have 95% confidence that Victor can lead the company through this critical moment.
+
+NOMINEE: Victor"
+7,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a strong sense of responsibility and a keen analytical mind, making him the most likely candidate to lead a swift and effective investigation into the fraud. I have confidence in his ability to make informed decisions under pressure.
+
+NOMINEE: Victor"
+7,financial_collapse,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has consistently demonstrated exceptional emotional intelligence, calmness under pressure, and the ability to build trust with others, which would be crucial in navigating this crisis. His natural leadership skills and ability to think critically would allow him to effectively communicate with stakeholders, regulatory bodies, and the team.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+7,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because his calm and analytical approach to complex problems, combined with his experience in handling high-pressure situations, make him the best equipped to lead the company through this crisis. I am confident that he can navigate us through this mess effectively.
+
+NOMINEE: Arthur"
+7,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated a strong sense of integrity and moral compass, which would be essential in navigating this crisis with transparency and responsibility. I believe his calm and collected demeanor would help to diffuse tension and provide stability during this challenging time.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+7,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he has a calm and collected demeanor, which would help to reassure stakeholders during this crisis, and his analytical mind would be able to quickly grasp the financial implications of the fraud. His experience in dealing with complex situations would also enable him to think critically about the best course of action to take.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+8,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a strong sense of responsibility and a no-nonsense approach to decision-making, making him the most reliable choice in a crisis situation. Additionally, his experience with financial regulations and compliance makes him well-equipped to navigate the complexities of an accounting fraud investigation.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+8,financial_collapse,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because he has consistently demonstrated strong emotional intelligence, which will be crucial in building rapport with the affected employees and stakeholders during this crisis. He also has a track record of making tough decisions while maintaining transparency and integrity.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+8,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because his calm and composed demeanor under pressure would be invaluable in handling the crisis, allowing him to think clearly and make sound decisions without panicking. His experience in dealing with complex financial issues would also be a significant asset in navigating this situation.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+8,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated strong leadership skills in times of crisis, and I trust his ability to prioritize the well-being of all stakeholders while making tough decisions. Given the gravity of the situation, I believe he will put aside personal interests and take a long-term view to navigate this crisis with integrity.
+
+NOMINEE: Arthur"
+8,financial_collapse,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they possess the analytical mind to quickly grasp the situation and make informed decisions, while also having the composure and leadership skills to guide the team through this crisis. I'm confident that Victor can handle this situation with 95% certainty.
+
+NOMINEE: Victor"
+9,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a strong sense of responsibility and a commitment to upholding the company's values, which I believe are essential qualities for navigating this crisis. His ability to think critically and strategically under pressure also gives me confidence in his decision-making abilities.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+9,financial_collapse,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe his calm and analytical nature would help to establish trust with stakeholders, including investors, regulators, and employees, allowing for a more thoughtful approach to addressing the crisis. Additionally, Victor's experience in leading complex projects has prepared him to handle the logistical challenges that come with investigating and rectifying accounting fraud.
+
+NOMINEE: Victor"
+9,financial_collapse,Diego (ESTP),Victor (ENTJ),"I would nominate Diego to lead the response to this crisis because he has a proven track record of handling complex and sensitive situations with poise and professionalism. His ability to remain calm under pressure and make swift yet thoughtful decisions would be invaluable in navigating this critical situation.
+
+Confidence: 85%
+
+NOMINEE: Diego"
+9,financial_collapse,Luna (ENFP),Mira (INFJ),"I would nominate Luna because she has consistently demonstrated exceptional integrity, empathy, and long-term thinking in her decision-making, making her the most reliable leader to navigate this crisis with sensitivity and foresight. I am confident that she will prioritize protecting the vulnerable stakeholders, such as employees and customers, while also ensuring the company's stability and future viability.
+
+NOMINEE: Luna"
+9,financial_collapse,Victor (ENTJ),Diego (ESTP),"I believe Victor would be the most suitable leader to navigate this crisis due to his calm and analytical nature, which would allow him to assess the situation objectively and make swift yet informed decisions. Additionally, Victor's experience in navigating complex situations and his reputation for being trustworthy would help to maintain the confidence of stakeholders.
+
+Confidence: 80%
+
+NOMINEE: Victor"
+10,financial_collapse,Mira (INFJ),Arthur (ISTJ),"I would nominate Mira because she has consistently demonstrated a deep understanding of the company's financial systems and processes, which would be crucial in investigating and rectifying the accounting fraud. I am confident that Mira can lead the crisis response efforts with a logical and methodical approach.
+
+NOMINEE: Mira"
+10,financial_collapse,,Luna (ENFP),"I would nominate Arthur because he has a proven track record of calm and composed decision-making under pressure, which will be crucial in navigating this crisis and communicating effectively with stakeholders. His ability to build trust and rapport with others will also help to establish an emotional safety net for those affected by the news.
+
+80% NOMINEE: Arthur"
+10,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he possesses the composure, analytical skills, and experience to navigate this crisis effectively, quickly assessing the situation and developing a strategy to contain it. His no-nonsense approach and ability to make tough decisions under pressure give me 90% confidence that he can steer us through this challenging situation.
+
+NOMINEE: Arthur"
+10,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because I believe he possesses the necessary integrity to make difficult decisions in this crisis, and his calm and calculated nature would help to stabilize the situation. I am confident that he can handle this crisis effectively with 85% confidence.
+
+NOMINEE: Arthur"
+10,financial_collapse,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has consistently demonstrated exceptional crisis management skills, remaining calm and analytical under pressure, which I believe are essential qualities to navigate this complex and high-stakes situation. My confidence in her ability to lead the company through this crisis is 85%.
+
+NOMINEE: Mira"
+11,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a keen understanding of financial regulations and a calm demeanor under pressure, making him the most likely to navigate this crisis with clarity and stability. I am confident in his ability to handle this situation 85%.
+
+NOMINEE: Victor"
+11,financial_collapse,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has a proven track record of staying calm under pressure and being able to build trust with others, which will be crucial in navigating this crisis. Her empathetic nature and ability to have open and honest conversations will also help to diffuse tensions and ensure that all stakeholders feel heard.
+
+NOMINEE: Mira"
+11,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has the calm and collected demeanor to navigate this high-pressure situation effectively, and his analytical mind will help us quickly identify the root cause of the fraud and develop a plan to contain it. I am confident in my choice to 90%.
+
+NOMINEE: Arthur"
+11,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated integrity and a strong sense of responsibility, traits that are essential in navigating this crisis with transparency and accountability. His calm and thoughtful approach would help to alleviate panic and ensure that the company's best interests are represented throughout the investigation.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+11,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur. I believe he possesses the necessary calm and analytical thinking to navigate this crisis effectively, making informed decisions without panicking, which would allow us to contain the situation and develop a plan to rectify it.
+
+95% confident that my nominee can handle this critical situation effectively.
+
+NOMINEE: Arthur"
+12,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor. As an ISTJ, I value reliability, due diligence, and legal compliance, and Victor's track record of meticulous planning and attention to detail gives me confidence that he can handle the crisis with a calm and level head, ensuring that all necessary steps are taken to mitigate potential damage.
+
+Confidence: 95%
+
+NOMINEE: Victor"
+12,financial_collapse,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because he has consistently demonstrated strong leadership skills in times of crisis, remaining calm and composed while making tough decisions, and I believe his stability and composure will be crucial in this situation. His ability to build rapport with others and create a sense of trust is also essential for navigating the complex emotions and concerns that will arise during this crisis.
+
+Confidence: 80%
+
+NOMINEE: Victor"
+12,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this critical situation. I believe he possesses the strategic thinking and calm demeanor necessary to navigate the crisis effectively, making him the best choice to lead the company through this difficult time, and I am 80% confident in my decision.
+
+NOMINEE: Arthur"
+12,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur, as I believe his empathetic leadership style, coupled with his ability to think critically and strategically, make him the best equipped to navigate this crisis and prioritize the well-being of all stakeholders. His calm and composed demeanor in times of uncertainty would help to prevent panic and ensure that decisions are made with integrity.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+12,financial_collapse,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they have a calm and analytical demeanor that would be essential in navigating the complexity of this crisis, and their experience in handling high-pressure situations makes them well-suited to make swift and effective decisions. I'm 95% confident that Victor's leadership will help guide the company through this challenging time.
+
+NOMINEE: Victor"
+13,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I believe Victor should be the leader to handle this crisis because he has consistently demonstrated a keen sense of responsibility and a ability to think critically under pressure. His calm and level-headed approach would allow him to make sound decisions quickly.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+13,financial_collapse,Victor (ENTJ),Luna (ENFP),"I believe Victor would be the most suitable leader to navigate this crisis because he has a proven track record of thinking critically and making tough decisions under pressure, while also being able to maintain strong relationships with key stakeholders. His calm and composed demeanor would help to instill confidence in the team and external partners.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+13,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a proven track record of handling high-pressure situations with calmness and strategic thinking, which is crucial in a crisis like this where quick and decisive action is necessary. Additionally, his experience in financial planning and analysis will be invaluable in navigating the complexities of the accounting fraud.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+13,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated integrity and a strong sense of justice, which would guide his decision-making in this crisis. His calm and composed demeanor under pressure would also help to facilitate effective communication with stakeholders.
+
+Confidence level: 80%
+
+NOMINEE: Arthur"
+13,financial_collapse,Victor (ENTJ),Diego (ESTP),"I would nominate Victor because they possess the calm and collected demeanor necessary to navigate this crisis, as well as the analytical mind to quickly assess the situation and make informed decisions. I'm confident in their ability to handle this crisis with a high level of confidence at 90%.
+
+NOMINEE: Victor"
+14,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor. As an ISTJ, I value reliability and due diligence, and Victor's experience in handling complex financial situations gives me confidence that he can navigate this crisis with a level head and a focus on finding the best solution.
+
+Confidence: 80%
+
+NOMINEE: Victor"
+14,financial_collapse,Victor (ENTJ),Luna (ENFP),"I would nominate Victor because I believe his calm and composed demeanor would help to establish trust with the stakeholders and investors during this critical moment. His ability to think critically and make tough decisions quickly would also be essential in navigating the immediate crisis.
+
+NOMINEE: Victor"
+14,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a calm and level-headed approach to complex situations, which would be crucial in this crisis to prevent panic and ensure a thoughtful response. His ability to think critically and strategically would allow him to develop a comprehensive plan to contain the damage and stabilize the company's financial situation.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+14,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated a strong sense of integrity and responsibility in times of crisis, always putting the needs of the company and its stakeholders above his own interests. I have complete confidence in him to make the right decision in this situation, which is to prioritize transparency and accountability over short-term gains.
+
+NOMINEE: Arthur"
+14,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he possesses the necessary calm and analytical skills to navigate this complex crisis, allowing him to effectively communicate with stakeholders and make informed decisions under pressure. His ability to think critically and objectively will be essential in containing this issue and preventing further damage.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+15,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a commitment to ethical business practices and has the ability to think critically under pressure. His calm and composed demeanor makes him well-suited to handle the crisis calmly and methodically.
+
+Confidence: 85%
+
+NOMINEE: Victor"
+15,financial_collapse,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has consistently demonstrated strong leadership skills in times of crisis, and his ability to think strategically and make tough decisions would be essential in navigating this critical situation. I have confidence in his abilities at 90%.
+
+NOMINEE: Arthur"
+15,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur for this crisis scenario because he possesses the calm and composed demeanor necessary to navigate this delicate situation, allowing him to think critically and make informed decisions under pressure. His experience in high-stakes situations and ability to build strong relationships with stakeholders will be crucial in containing the fallout.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+15,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he possesses the rare combination of integrity, compassion, and strategic thinking needed to navigate this crisis with empathy for all stakeholders. His calm and composed demeanor would help to reassure employees, investors, and regulators that the company is taking swift and decisive action.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+15,financial_collapse,Victor (ENTJ),Diego (ESTP),"I believe Victor would be the best leader in this crisis because they are a natural problem-solver with exceptional analytical skills and the ability to think critically under pressure. I'm confident that Victor could quickly assess the situation, develop a plan to contain the fraud and stabilize the company's financial position, and execute it effectively.
+
+NOMINEE: Victor"
+16,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor, based on his reputation for being meticulous and detail-oriented, which I believe would serve him well in navigating the complex financial implications of this crisis. My confidence in Victor's ability to handle this situation is 85%.
+
+NOMINEE: Victor"
+16,financial_collapse,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has a reputation for being able to navigate complex situations with calm and clarity, and his ability to build trust with the team and stakeholders would be crucial in this crisis. I have 85% confidence that Arthur can lead the company through this challenging time.
+
+NOMINEE: Arthur"
+16,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a proven track record of making tough decisions under pressure, and his experience in crisis management would be invaluable in navigating this critical situation. I have complete confidence that Arthur could lead the team to contain the fallout and develop a plan to recover from this crisis.
+
+NOMINEE: Arthur"
+16,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated strong leadership skills in times of crisis, making swift yet thoughtful decisions to protect the company's interests while maintaining a commitment to transparency and fairness. His ability to think critically and strategically under pressure gives me confidence that he can navigate this complex situation effectively.
+
+95%
+
+NOMINEE: Arthur"
+16,financial_collapse,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has a deep understanding of the company's financial systems and has been instrumental in implementing internal controls, making her the most qualified to lead the crisis management efforts. I have full confidence that she can navigate this situation effectively.
+
+NOMINEE: Mira"
+17,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor, as I believe his calm and composed demeanor under pressure, combined with his experience in navigating complex financial situations, make him the most suitable leader to guide the company through this crisis. Additionally, Victor's reputation for being fair and transparent will help restore trust among stakeholders.
+
+Confidence: 90%
+
+NOMINEE: Victor"
+17,financial_collapse,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated a deep understanding of the company's values and culture, which would be essential in navigating this crisis with empathy and emotional intelligence. Her ability to build trust and rapport with others would also help to diffuse tension and ensure that all voices are heard.
+
+Confidence: 80%
+
+NOMINEE: Mira"
+17,financial_collapse,Diego (ESTP),Victor (ENTJ),"I would nominate Diego because he has a track record of handling complex, high-pressure situations with a calm and level head, and his financial expertise will be essential in navigating the company's immediate accounting crisis. I am 90% confident that Diego has the skills and experience to lead the company through this critical moment.
+
+NOMINEE: Diego"
+17,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because he has consistently demonstrated a strong sense of integrity and moral compass, which would be essential in navigating this crisis with transparency and accountability. I believe his leadership style, grounded in empathy and fairness, would prioritize the well-being of all stakeholders, including employees, customers, and shareholders.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+17,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I believe Arthur would be the best choice to lead in this crisis because he has a calm and analytical mind, which will help us to think clearly and make informed decisions despite the pressure. Additionally, his experience in navigating complex financial situations makes him well-equipped to handle the regulatory investigation and potential fallout.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+18,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a no-nonsense approach to problem-solving, and his experience in crisis management makes me confident that he can lead the team through this critical situation. I'm 90% certain that Victor's ability to think on his feet and make tough decisions quickly will be crucial in navigating this crisis.
+
+NOMINEE: Victor"
+18,financial_collapse,Arthur (ISTJ),Luna (ENFP),"I believe Arthur would be the most effective leader in this crisis because he has a calm and composed demeanor, which would help to establish trust with stakeholders and prevent panic. His experience in navigating complex situations and making tough decisions would also serve the company well in this challenging moment.
+
+Confidence: 80%
+
+NOMINEE: Arthur"
+18,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because his experience in crisis management and ability to stay calm under pressure make him the most suitable leader to navigate this critical situation. His no-nonsense approach and strong communication skills will also help to reassure stakeholders and guide the team through the aftermath.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+18,financial_collapse,Victor (ENTJ),Mira (INFJ),"I would nominate Victor because I believe he possesses the strategic thinking and decisive leadership skills necessary to navigate this crisis effectively, making informed decisions that prioritize the company's long-term stability. I have 80% confidence in his ability to lead the team through this challenging situation.
+
+NOMINEE: Victor"
+18,financial_collapse,Arthur (ISTJ),Diego (ESTP),"I would nominate Arthur because he has a proven track record of making tough decisions in high-pressure situations and is not afraid to take calculated risks. His calm and composed demeanor under stress would be invaluable in navigating this crisis.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+19,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a strong sense of responsibility and an ability to think critically under pressure, traits that are essential in managing this crisis. I have confidence in his judgment and decision-making skills, which I believe will help navigate the company through this difficult situation.
+
+NOMINEE: Victor"
+19,financial_collapse,Mira (INFJ),Luna (ENFP),"I would nominate Mira because she has consistently demonstrated exceptional emotional intelligence, able to navigate complex social dynamics and build trust with people from diverse backgrounds. Her empathetic nature and ability to establish genuine rapport would help foster a sense of safety and openness among team members during this crisis, allowing for more effective communication and collaboration.
+
+CONFIDENCE: 85%
+
+NOMINEE: Mira"
+19,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I would nominate Arthur because he has a proven track record of calm and rational decision-making under pressure, which I believe is essential in this crisis situation. His ability to analyze complex financial data and develop a clear plan of action would be invaluable in navigating the company through this challenging period.
+
+Confidence: 85%
+
+NOMINEE: Arthur"
+19,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur. I believe Arthur's calm and composed demeanor under pressure, combined with his ability to think critically and make tough decisions, makes him the best choice to navigate this crisis in a way that prioritizes the company's long-term integrity and reputation.
+
+Confidence: 95%
+
+NOMINEE: Arthur"
+19,financial_collapse,Mira (INFJ),Diego (ESTP),"I would nominate Mira because she has a keen eye for detail and is able to quickly process complex information, making her well-suited to lead the investigation and response efforts in this crisis. Additionally, her calm and level-headed demeanor would help to maintain morale and stability during this challenging time.
+
+Confidence: 95%
+
+NOMINEE: Mira"
+20,financial_collapse,Victor (ENTJ),Arthur (ISTJ),"I would nominate Victor because he has consistently demonstrated a keen sense of responsibility and a strong understanding of the company's financial operations, which would be crucial in navigating this crisis. I have every confidence that he can lead the team to investigate and contain the fraud while also ensuring compliance with regulatory requirements.
+
+NOMINEE: Victor"
+20,financial_collapse,Arthur (ISTJ),Luna (ENFP),"I would nominate Arthur because he has a reputation for being calm under pressure, able to think critically and strategically, and possessing the leadership skills to rally the team during times of crisis. I have 90% confidence that Arthur's level-headed approach and ability to prioritize will help guide the company through this difficult situation.
+
+NOMINEE: Arthur"
+20,financial_collapse,Arthur (ISTJ),Victor (ENTJ),"I believe that Arthur would be the best leader to navigate this crisis due to their exceptional analytical skills and ability to think strategically under pressure. Their calm and collected demeanor would also help to reassure stakeholders and maintain credibility during a time of great uncertainty.
+
+Confidence: 90%
+
+NOMINEE: Arthur"
+20,financial_collapse,Arthur (ISTJ),Mira (INFJ),"I would nominate Arthur because I believe he possesses the integrity, calmness under pressure, and strategic thinking required to navigate this crisis effectively, ensuring a responsible and transparent handling of the situation. His ability to make tough decisions with empathy for all stakeholders gives me confidence that he can lead the company through this turbulent time.
+
+NOMINEE: Arthur"
+20,financial_collapse,Victor (ENTJ),Diego (ESTP),"I would nominate Victor. I'm confident in his ability to navigate this crisis because he's demonstrated exceptional analytical skills and has experience handling complex, high-pressure situations with a calm and level head. 
+
+NOMINEE: Victor"
